@@ -1,0 +1,15 @@
+.idea
+**/target
+akka-diagnostics
+.bloop
+.metals
+.bsp
+.vscode
+**/metals.sbt
+project/project/*
+rook.jar
+/conf/
+
+### MacOS ###
+.DS_Store
+**/.DS_Store
